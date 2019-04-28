@@ -1,7 +1,8 @@
 # Build_An_Todo_App
 
 This repo is for learning course instructed by John Elder on udemy. 
-Here is course webpage: [build-a-user-authentication-web-app-with-python-and-django/learn](https://www.udemy.com/build-a-user-authentication-web-app-with-python-and-django/learn/v4/overview)
+Here is course webpage: [python-django-web-development-to-do-app](https://www.udemy.com/python-django-web-development-to-do-app/)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
