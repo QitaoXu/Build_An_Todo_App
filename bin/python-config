@@ -1,4 +1,4 @@
-#!/Users/xuqitao/git/django-projects/bin/python
+#!/Users/xuqitao/git/DjangoStuff/bin/python
 
 import sys
 import getopt
